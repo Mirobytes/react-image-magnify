@@ -1,12 +1,12 @@
 {
-  "name": "react-image-magnify",
+  "name": "react-magnify-image",
   "version": "2.7.4",
   "description": "A responsive image zoom component designed for shopping sites.",
   "repository": {
     "type": "git",
     "url": "https://github.com/ethanselzer/react-image-magnify.git"
   },
-  "author": "Ethan Selzer <ethanselzer@gmail.com>",
+  "author": "Ravi Sharma <connectwithravisharma@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ethanselzer/react-image-magnify/issues"
@@ -89,9 +89,6 @@
     "sinon": "4.1.2",
     "webpack": "^3.6.0",
     "webpack-bundle-analyzer": "^2.9.0"
-  },
-  "peerDependencies": {
-    "react": "~0.14.9 || ^15.0.0 || ^16.0.0"
   },
   "dependencies": {
     "clamp": "1.0.1",
